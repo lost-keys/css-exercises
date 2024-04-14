@@ -1,0 +1,23 @@
+#div-one {
+  color: blue;
+  font-size: 36px;
+}
+
+#div-two {
+
+}
+
+.odd {
+  background: lightpink;
+  font-family: 'Verdana', 'DejaVu Sans', sans-serif;
+}
+
+.odder {
+  font-size: 24px;
+}
+
+.wow {
+  background: lightgreen;
+  font-size: 24px;
+  font-weight: bold;
+}
